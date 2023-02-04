@@ -1,31 +1,31 @@
 # ITP4507-assignment-2223_v3_1
 ITP4507-Assignment
 Test Case
-a
-a
-1001
-21000
-Alan Po
-2
-15
-20
-10
-20
-a
-a
-1002
-24000
-Peter Chan
-1
-7
-10
-d
-1001
-a
-h
-2001
-2
-3
+a\n
+a\n
+1001\n
+21000\n
+Alan Po\n
+2\n
+15\n
+20\n
+10\n
+20\n
+a\n
+a\n
+1002\n
+24000\n
+Peter Chan\n
+1\n
+7\n
+10\n
+d\n
+1001\n
+a\n
+h\n
+2001\n
+2\n
+3\n
 12
 10
 20
